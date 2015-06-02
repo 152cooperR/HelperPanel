@@ -185,7 +185,18 @@ body {
 .chat li {
     margin-bottom: 10px;
     padding-bottom: 5px;
-    border-bottom: 1px dotted #999;
+    border-bottom: 1px solid #e5e5e5;
+}
+
+.even{
+
+    background-color: #bfbfbf;
+}
+
+.odd{
+
+    background-color: #a1a1a1;
+
 }
 
 .chat li.left .chat-body {
